@@ -1,5 +1,7 @@
 #= require jquery-fileupload/basic
 #= require jquery-fileupload/vendor/tmpl
+#= require jquery-fileupload/jquery.fileupload-process
+#= require jquery-fileupload/jquery.fileupload-validate
 
 jQuery.fn.S3FileField = (options) ->
 
